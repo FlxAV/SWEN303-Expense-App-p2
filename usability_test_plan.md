@@ -29,7 +29,7 @@ As mentioned, for the first three tasks we will take you step by step until you 
 
 ### Tasks
 
-####Task 1 - Create a Group
+#### Task 1 - Create a Group
 
 For this task we will get you to create a group from the Login page.
 
@@ -39,7 +39,7 @@ For this task we will get you to create a group from the Login page.
 
 You have successfully created a group.
 
-####Task 2 - Add an Expense to a group
+#### Task 2 - Add an Expense to a group
 
 For this task we will get you to add an Expense to the group you have created.
 
@@ -52,7 +52,7 @@ For this task we will get you to add an Expense to the group you have created.
 
 You have successfully added an Expense.
 
-####Task 3 - Resolve an expense from the Activity tab
+#### Task 3 - Resolve an expense from the Activity tab
 
 For this task we will get you to Resolve an Expense from the Activity Tab.
 
@@ -64,15 +64,15 @@ You have successfully Resolved an Expense from the Activity Tab.
 
 For these next three tasks we will no longer take you through step by step. Instead we will ask you to complete a task or obtain some information. We will describe the task we would like you to complete or the information we would like you to acquire, you will then commence completing said task. If you are willing, please explain your thought process as you are completing your task. If at any point during this task you are lost on the next step to complete the task please describe your issue. 
 
-####Task 4 - Add a member to a group from your Friends list
+#### Task 4 - Add a member to a group from your Friends list
 
 For this task we would like you to navigate back to the group you have created and add a member to the group that is currently in your friends list.
 
-####Task 5 - Update your Email address on your Profile
+#### Task 5 - Update your Email address on your Profile
 
 For this task we would like you to navigate to your profile page and update your email address.
 
-####Task 6 - Figure out who has settled their debt with you for an Expense (view Expense)
+#### Task 6 - Figure out who has settled their debt with you for an Expense (view Expense)
 
 For this task we would like you to navigate to an Expense you have created in a group and tell us who has Settled their debt with you already..
 
