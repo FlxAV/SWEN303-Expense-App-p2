@@ -10,7 +10,7 @@
 ## Summary
 Overview of the testing results, including both qualitative and quantitative data.
 
-## SUS Scores
+## SEQ & SUS Scores
 Detailed calculations and analysis of SUS scores.
 
 ## Identified Issues
