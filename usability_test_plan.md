@@ -126,14 +126,16 @@ The SUS feedback will provide a rating on a scale from 0 to 100, with a higher s
 
 
 ## Roles
+
 ### Facilitator
-Responsibilities of the facilitator.
-### Note Taker
-Responsibilities of the note taker.
+The facilitator is responsible for coordinating the testing process. In this project, all team members contributed to creating the Google Form, which includes the introduction, task descriptions, and questionnaires. The facilitator's role involved ensuring the form was comprehensive and clear, and communicating with participants via Discord to guide them through the overall process.
+### Note-Taker
+Since testing is conducted asynchronously and there are no live sessions, the note-taker role has been adapted. Instead of taking real-time notes, the note-taker's responsibility was incorporated into the questionnaire design. All team members contributed to crafting specific questions and comment sections in the Google Form to capture detailed feedback and observations from test subjects.
 ### Analyst
-Responsibilities of the analyst.
+The analyst's role involves reviewing and interpreting the data collected from the completed Google Forms. All team members will collaborate in this process, discussing findings, creating graphs, and identifying trends. Together, they will suggest improvements for the app based on the analysed data.
 ### Test Subject
-Responsibilities of the test subject.
+Each team member acted as a test subject for the other group's usability testing. They completed the tasks and questionnaires provided by the other group, offering their feedback and insights to help improve the other group's prototype.
+
 
 ## Problem Severity
 Classification criteria for problem severity:
