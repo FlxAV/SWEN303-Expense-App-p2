@@ -1,5 +1,10 @@
 # Resources
 
+## Table of Contents
+- [Consent Form](#consent-form)
+- [Information Sheet](#information-sheet)
+- [Questionnaire](#questionnaire)
+
 ## Consent Form
 Copy of the consent form used for participants.
 

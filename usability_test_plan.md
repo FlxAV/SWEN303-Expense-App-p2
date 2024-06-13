@@ -1,5 +1,13 @@
 # Usability Test Plan
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Script](#script)
+- [Metrics](#metrics)
+- [Tasks](#tasks)
+- [Roles](#roles)
+- [Problem Severity](#problem-severity)
+
 ## Introduction
 Brief overview of the usability testing plan.
 

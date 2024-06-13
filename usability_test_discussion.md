@@ -1,5 +1,10 @@
 # Usability Test Discussion
 
+## Table of Contents
+- [Interesting Findings](#interesting-findings)
+- [Learning Summary](#learning-summary)
+- [Significant Results](#significant-results)
+
 ## Interesting Findings
 Discussion of the most interesting findings from user testing:
 - Finding 1: Description

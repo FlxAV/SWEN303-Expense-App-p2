@@ -1,5 +1,10 @@
 # Proposed Prototype Updates
 
+## Table of Contents
+- [Overview](#overview)
+- [Justifications](#justifications)
+- [Prioritisation](#prioritisation)
+
 ## Overview
 Summary of proposed updates based on test results.
 

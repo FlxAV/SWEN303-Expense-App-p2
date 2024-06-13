@@ -1,5 +1,12 @@
 # Usability Test Results
 
+## Table of Contents
+- [Summary](#summary)
+- [SUS Scores](#sus-scores)
+- [Identified Issues](#identified-issues)
+- [Issues Severity](#issues-severity)
+- [Gitlab Issues](#gitlab-issues)
+
 ## Summary
 Overview of the testing results, including both qualitative and quantitative data.
 
