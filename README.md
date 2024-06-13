@@ -19,10 +19,10 @@ This project is part of SWEN303 and involves usability testing of the prototype 
   - [Issues Severity](usability_test_results.md#issues-severity): Classification of issues based on severity.
   - [GitLab Issues](usability_test_results.md#gitlab-issues): Links to corresponding issues created in GitLab.
 
-- [Updated Prototype](updated_prototype.md): List of proposed updates based on test results.
+- [Proposed Prototype Updates](proposed_prototype_updates.md): List of proposed updates based on test results.
   Contains the sections:
-  - [Justifications](updated_prototype.md#justifications): Justifications for each proposed update.
-  - [Prioritisation](updated_prototype.md#prioritization): Explanation of how issues were prioritised.
+  - [Justifications](proposed_prototype_updates.md#justifications): Justifications for each proposed update.
+  - [Prioritisation](proposed_prototype_updates.md#prioritisation): Explanation of how issues were prioritised.
 
 - [Usability Test Discussion](usability_test_discussion.md): Discussion of the most interesting findings from user testing.
   Contains the sections:
