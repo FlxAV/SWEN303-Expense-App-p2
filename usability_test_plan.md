@@ -11,6 +11,41 @@
 ## Introduction
 Brief overview of the usability testing plan.
 
+## Methodology
+
+#### Participants
+
+Four participants from another group will act as test users for our usability testing. Participants were selected through email communication. Given their background, we assume their skill level with similar systems will be relatively high, which will be considered when reviewing test results.
+
+#### Testing Overview
+
+Testing will be conducted asynchronously to accommodate participants' busy schedules. Communication and coordination will occur through Discord, and a Google Form will guide participants through the tasks and collect their feedback.
+
+#### Training
+
+Participants will receive a brief overview of the app and the testing process through a description provided in the Google Form. This overview will not focus heavily on navigation to assess the intuitiveness of the app's layout.
+
+#### Procedure
+
+1- Setup:
+- Participants were contacted via email and invited to a shared Discord server for easier communication.
+- In Discord, both groups agreed to create Google Forms for the other group's members to fill out, allowing testing to be completed at their convenience.
+
+2- Task Completion:
+- Each participant will receive a Google Form containing detailed descriptions of six tasks to complete within the app.
+- The tasks will include a mix of step-by-step instructions and tasks requiring independent navigation.
+- As participants complete each task, they will answer questions in the form regarding their experience, focusing on usability, functionality, and any encountered issues.
+- Metrics collected will include task completion time, ease of navigation, encountered errors, and user satisfaction.
+
+3- Feedback Collection:
+- After completing all tasks, participants will fill out a final section of the Google Form, providing overall feedback on their experience.
+- This section will include specific questions about the app's functionality and usability, as well as an optional space for additional comments.
+
+4- Data Analysis:
+- Once all participants have completed the testing, the collected data will be analysed.
+- The focus will be on identifying common issues, usability trends, and areas for improvement.
+
+
 ## Script
 ### Introduction
 
