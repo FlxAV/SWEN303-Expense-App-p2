@@ -138,7 +138,23 @@ Each team member acted as a test subject for the other group's usability testing
 
 
 ## Problem Severity
-Classification criteria for problem severity:
-- Minor
-- Moderate
-- Major
+
+This section will aid in prioritising any problems experienced during testing. The classification is made by factors such as impact, frequency, and the importance of the task associated with the issue. This system will help identify the most critical issues that need immediate attention.
+### What is Considered a Problem?
+Given that this test involves a prototype, not all features may be fully implemented. Therefore, we will only consider problems that negatively impact the user experience during the tasks outlined in the script.
+### Classification
+#### Minor
+- Impact: Low impact on the overall user experience.
+- Frequency: Occurs infrequently.
+- Example: Minor UI alignment issues, such as a button being slightly misaligned.
+- Description: These issues cause minimal disruption to the user and do not prevent task completion.
+#### Moderate
+- Impact: Significant effect on the user experience but does not render the app unusable.
+- Frequency: May occur occasionally.
+- Example: Certain functions not working as expected, such as a non-functional button.
+- Description: These problems affect the usability of the app and may hinder user satisfaction, but users can still perform other tasks.
+#### Major
+- Impact: Severe impact, making the app or a major function unusable.
+- Frequency: Can occur consistently or in critical tasks.
+- Example: The inability to return to the home page or crashes during crucial operations.
+- Description: These issues prevent users from completing essential tasks and need immediate resolution.
