@@ -19,7 +19,7 @@ Four participants from another group will act as test users for our usability te
 
 #### Testing Overview
 
-Because of busy schedules due to assignments and exams for participants from both groups, testing will be conducted asynchronously to accommodate participants' . Communication and coordination will occur through Discord, and a Google Form will guide participants through the tasks and collect their feedback.This allows the other group to complete their part of the testing whenever they have time.
+Because of busy schedules due to assignments and exams for participants from both groups, testing will be conducted asynchronously to accommodate participants' . Communication and coordination will occur through Discord, and a Google Form will guide participants through the tasks and collect their feedback. This allows the other group to complete their part of the testing whenever they have time.
 
 #### Training
 
