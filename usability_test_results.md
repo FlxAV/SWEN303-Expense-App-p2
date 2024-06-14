@@ -21,9 +21,13 @@
 Below are the calculations used to determine the overall SEQ score of our prototype after user testing.
 
 (5 + 4 + 6 + 6 + 7 + 6) / 6 = 5.67
+
 (6 + 7 + 6 + 6 + 7 + 6) / 6 = 6.33
+
 (7 + 6 + 7 + 7 + 5 + 7) / 6 = 6.50
+
 (6 + 6 + 7 + 5 + 7 + 4) / 6 = 5.83
+
 (6 + 5 + 7 + 6 + 7 + 6) / 6 = 6.17
 
 Overall average SEQ score: 6.10
@@ -105,6 +109,29 @@ Overall incredibly good workflow though for this. Obvious and the information de
 | SUS Q8 | 2 | 2 | 2 | 1 | 1 |  
 | SUS Q9 | 4 | 5 | 5 | 4 | 4 |  
 | SUS Q10 | 1 | 2 | 1 | 5 | 1 |  
+
+Below are the calculations used to determine the overall SUS score of our prototype after user testing.
+
+(2 + 1 + 3 + 4 + 3 + 2 + 3 + 3 + 3 + 4 ) * 2.5 = 70.0
+
+
+(2 + 4 + 3 + 2 + 4 + 3 + 3 + 3 + 4 + 3 ) * 2.5 = 77.5
+
+
+(4 + 4 + 4 + 1 + 4 + 4 + 4 + 3 + 4 + 4 ) * 2.5 = 90.0
+
+
+(4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 + 3 + 1) * 2.5 = 90.0
+
+
+(4 + 1 + 3 + 4 + 2 + 4 + 3 + 4 + 3 + 4) * 2.5 = 80.0
+
+
+Overall average SUS score: 81.50
+
+
+We achieved an overall SUS score of 81.5 out of 100, once again significantly surpassing our goal of 70 and the industry standard of 68 outlined in our usability goals. This result highlights another excellent outcome from our user testing.
+
 
 ### Answers to Specific Questions
 
