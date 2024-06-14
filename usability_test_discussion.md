@@ -40,3 +40,7 @@ Task completion was generally high, with most tasks rated as 5-7 out of 7 for ea
 #### Result 2: Positive Feedback on Core Features
 
 Despite some difficulties, the core functionalities such as creating a group, adding expenses, and resolving expenses were generally well-received. Users found these tasks intuitive once they navigated through the app, suggesting that the app's primary features are effective but could benefit from enhanced guidance and accessibility improvements.
+
+### Conclusion
+
+In conclusion, the user testing validated that the app is headed in the right direction but needs some UX optimizations before launch. Key priorities should be: 1) Smoothing out the onboarding experience and core user journeys with clearer signposting, 2) Reviewing the information architecture to make key details easy to find, and 3) Auditing and aligning the UI with accessibility best practices and modern design conventions. With some targeted enhancements in these areas, I believe the app could be both powerful and user-friendly.
