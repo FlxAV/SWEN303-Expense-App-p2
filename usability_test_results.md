@@ -1,8 +1,8 @@
 # Usability Test Results
 
 ## Table of Contents
-- [SEQ Scores](#seq-scores)
-- [SUS Scores](#sus-scores)
+- [SEQ Results](#seq-results)
+- [SUS Results](#sus-results)
 - [Identified Issues](#identified-issues)
 - [Gitlab Issues](#gitlab-issues)
 
