@@ -145,17 +145,21 @@ We achieved an overall SUS score of 81.5 out of 100, once again significantly su
 ## Identified Issues
 | Task | Severity  | Issue | 
 | ----------- | ----------- | ---------------------- | 
-| Task 1 | Moderate  | -  Groups highlight is not clear enough for people with limited vision.  |
-| Task 1 | Major  | -  Done callout isn't large enough and is a struggle to reach.  |  
+| Task 1 | Minor  | -  Groups highlight is not clear enough for people with limited vision.  |
+| Task 1 | Moderate  | -  Done callout isn't large enough and is a struggle to reach.  |  
 | Task 2 | Moderate  | - No "back" option once you click add expense.  | 
 | Task 3 | Minor  | - No notification telling how many expenses you have yet to be resolved.  | 
 | Task 3 | Minor  | - Text for dates and money is too small.  | 
-| Task 4 | Major  | - Initial thought process is based on previous app usage.  |  
+| Task 4 | Moderate  | - Initial thought process is based on previous app usage.  |  
 | Task 5 |    |    |  
-| Task 6 | Major  | - Nesting expenses under too many tabs. |
+| Task 6 | Moderate  | - Nesting expenses under too many tabs. |
 
 ## Gitlab Issues
 Links to corresponding issues created in Gitlab for tracking:
-- Issue 1: [Link](#)
-- Issue 2: [Link](#)
-- Issue 3: [Link](#)
+- Issue 1: [Group highlight](#group-highlight)
+- Issue 2: [Done size and pos](#done-size-and-pos)
+- Issue 3: [No back option](#no-back-option)
+- Issue 4: [Expenses to be resolved](#expenses-to-be-resolved)
+- Issue 5: [Text size](#text-size)
+- Issue 6: [Tutorial](#tutorial)
+- Issue 7: [Tab depth](#tab-depth)
