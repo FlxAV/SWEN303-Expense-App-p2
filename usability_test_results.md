@@ -1,16 +1,10 @@
 # Usability Test Results
 
 ## Table of Contents
-- [Results](#results)
-- [Summary](#summary)
 - [SEQ Scores](#seq-scores)
 - [SUS Scores](#sus-scores)
 - [Identified Issues](#identified-issues)
-- [Issues Severity](#issues-severity)
 - [Gitlab Issues](#gitlab-issues)
-
-## Results
-All review data submitted.
 
 ### SEQ Results
 
@@ -121,24 +115,17 @@ Overall incredibly good workflow though for this. Obvious and the information de
 | Were you stuck or lost at any point in this test? If so, what were you trying to do? | trying to press another buttom or ask for helpl| Was never stuck.| i got a bit lost trying to change the email but i just went back and redid it, it was still very simple| No| As I said previously, I wasn't sure if I was meant to go to Analysis or the Manage section for seeing who had settled their debts, as they both have similar information.|  
 | Any further criticisms / notes you might have. (Optional)| | Sizing could be a bit better. As someone with eyesight issues, the small text really is difficult . Money amounts should be big and visible. Dates should be big and visible. Eye candy like users icons and layout are nice but can sometimes make app harder to use for people with visual or motor-function (can't remember the exact term) issues.| great app, nice and simple. one thing i liked is that its not overwhelming with features and buttons but noce and easy to get used to without effort|  | I think the "Activity" bar should be something different, as when I see the bell icon I would assume it to be notifications e.g. spam and promotions and think that maybe something like "payments" with a different icon would be more intuitive, especially for older users. I think you could possible try organise the different payments in a way that will make it easier when you have a lot of payments due. Maybe adding a resolve all button could do the same thing? or a resolve all in X group.|  
 
-
-
-
-
-## Summary
-Overview of the testing results, including both qualitative and quantitative data.
-
-## SEQ & SUS Scores
-Detailed calculations and analysis of SUS scores.
-
 ## Identified Issues
-List of all identified issues encountered during the usability testing.
-
-## Issues Severity
-Classification of issues based on severity:
-- Minor
-- Moderate
-- Major
+| Task | Severity  | Issue | 
+| ----------- | ----------- | ---------------------- | 
+| Task 1 | Moderate  | -  Groups highlight is not clear enough for people with limited vision.  |
+| Task 1 | Major  | -  Done callout isn't large enough and is a struggle to reach.  |  
+| Task 2 | Moderate  | - No "back" option once you click add expense.  | 
+| Task 3 | Minor  | - No notification telling how many expenses you have yet to be resolved.  | 
+| Task 3 | Minor  | - Text for dates and money is too small.  | 
+| Task 4 | Major  | - Initial thought process is based on previous app usage.  |  
+| Task 5 |    |    |  
+| Task 6 | Major  | - Nesting expenses under too many tabs. |
 
 ## Gitlab Issues
 Links to corresponding issues created in Gitlab for tracking:
