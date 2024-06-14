@@ -14,6 +14,7 @@ This project is part of SWEN303 and involves usability testing of the prototype 
 
 - [Usability Test Results](usability_test_results.md): Summary of test results including both qualitative and quantitative data.
   Contains the sections:
+  - [SEQ Scores](usability_test_results.md#seq-scores): Detailed calculations of SEQ scores.
   - [SUS Scores](usability_test_results.md#sus-scores): Detailed calculations of SUS scores.
   - [Identified Issues](usability_test_results.md#identified-issues): List of all identified issues.
   - [Issues Severity](usability_test_results.md#issues-severity): Classification of issues based on severity.
