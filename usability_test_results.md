@@ -100,6 +100,36 @@ Overall incredibly good workflow though for this. Obvious and the information de
 | SUS Q9 | 4 | 5 | 5 | 4 | 4 |  
 | SUS Q10 | 1 | 2 | 1 | 5 | 1 |  
 
+### Answers to Specific Questions
+
+| User | User 1  | User 2 | User 3 | User 4 | User 5 | 
+| ----------- | ----------- | ----------- | ----------- | ----------- |----------- | 
+| Can you describe which task you found to be the hardest to complete and why?
+ | No, everything is easy | Viewing expenses; this is purely related to quirks of figma.
+ | I found updating email address a littles hard as i could not see the option to update but it was still intuitive
+ | Task 6. Every task was easy, but task 6 I thought I had the correct information before I went digging further.
+ | All of the tasks were relatively easy as someone who has used apps like this in the past, but I would say the hardest of the tasks was finding who had settled their payments, as I wasn't sure if it was meant to be in the "Manage" section or the "Analysis" section.
+ |  
+|Can you describe which task you found to be the easiest to complete and why?
+ | task 1 is most easiest.
+ | Editting email. This is exactly the workflow used in most apps so it doesn't require any thought to do.
+ | creating a group and adding friends was simple because i did not have to search around the screen as everything was properly labeled and clearly visible
+ | 1. This task is incredibly streamlined. You create a user and they are immediately prompted to create a group.
+ | To me the best was the resolve payments task was the easiest, as it is clearly shows you what you need to pay and what you have already payed, with great use of colours.
+ |  
+| Were you stuck or lost at any point in this test? If so, what were you trying to do? 
+ | trying to press another buttom or ask for helpl
+ | Was never stuck.
+ | i got a bit lost trying to change the email but i just went back and redid it, it was still very simple
+ | No
+ | As I said previously, I wasn't sure if I was meant to go to Analysis or the Manage section for seeing who had settled their debts, as they both have similar information.
+ |  
+| Any further criticisms / notes you might have. (Optional)
+ | | Sizing could be a bit better. As someone with eyesight issues, the small text really is difficult . Money amounts should be big and visible. Dates should be big and visible. Eye candy like users icons and layout are nice but can sometimes make app harder to use for people with visual or motor-function (can't remember the exact term) issues.
+ | great app, nice and simple. one thing i liked is that its not overwhelming with features and buttons but noce and easy to get used to without effort
+ |  | I think the "Activity" bar should be something different, as when I see the bell icon I would assume it to be notifications e.g. spam and promotions and think that maybe something like "payments" with a different icon would be more intuitive, especially for older users. I think you could possible try organise the different payments in a way that will make it easier when you have a lot of payments due. Maybe adding a resolve all button could do the same thing? or a resolve all in X group.
+ |  
+
 
 
 
