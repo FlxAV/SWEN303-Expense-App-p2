@@ -165,7 +165,7 @@ We achieved an overall SUS score of 81.5 out of 100, once again significantly su
 
 ## Gitlab Issues
 Links to corresponding issues created in Gitlab for tracking:
-- Issue 1: [Group highlight](#group-highlight)
+- Issue 1: [Group highlight](#course-work/swen303/2024/project1/t9/swen303-group-project-part-2#1)
 - Issue 2: [Done size and pos](#done-size-and-pos)
 - Issue 3: [No back option](#no-back-option)
 - Issue 4: [Expenses to be resolved](#expenses-to-be-resolved)
