@@ -28,9 +28,9 @@ Task 1 Comments:
 
 - Groups highlight is not clear enough for people with limited vision. Use of a different colour or making the tab more obvious is needed. I thought I was on the friends tab at first because it looks white underneath it.
 
-Done callout isn't large enough and is a struggle to reach. If intentional to deter from accidentally creating groups this is good but you can do this by a confirmation dialogue instead. I'd put the done dialogue near the bottom so users are encouraged to scroll if needed and then confirm once having read everything.
+    Done callout isn't large enough and is a struggle to reach. If intentional to deter from accidentally creating groups this is good but you can do this by a confirmation dialogue instead. I'd put the done dialogue near the bottom so users are encouraged to scroll if needed and then confirm once having read everything.
 
-Overall very easy process just some misplaced elements.
+    Overall very easy process just some misplaced elements.
 
 - Nice looking UI, like the option to sign up with google/apple. Creating groups is intuitive while offering all features you would need.
 
