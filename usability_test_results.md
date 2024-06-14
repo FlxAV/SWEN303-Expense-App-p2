@@ -12,6 +12,8 @@
 ## Results
 All review data submitted.
 
+SEQ Results
+
 | User | User 1  | User 2 | User 3 | User 4 | User 5 | Task Avg |
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
 | Task 1 | 5 | 6 | 7 | 6 | 6 | 6.00 |
@@ -21,6 +23,25 @@ All review data submitted.
 | Task 5 | 7 | 7 | 5 | 7 | 7 | 6.60 |
 | Task 6 | 6 | 6 | 7 | 4 | 6 | 5.80 |
 | User avg | 5.67 | 6.33 | 6.50 | 5.83 | 6.17 |      |
+
+SUS Results
+
+| User | User 1  | User 2 | User 3 | User 4 | User 5 | Task Avg |
+| ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
+| SUS Q1 | 3 | 3 | 5 | 5 | 5 |  |
+| SUS Q2 | 4 | 1 | 1 | 1 | 4 |  |
+| SUS Q3 | 4 | 4 | 5 | 5 | 4 |  |
+| SUS Q4 | 1 | 3 | 4 | 1 | 1 |  |
+| SUS Q5 | 4 | 5 | 5 | 5 | 3 |  |
+| SUS Q6 | 3 | 2 | 1 | 1 | 1 |  |
+| SUS Q7 | 4 | 4 | 5 | 4 | 4 |  |
+| SUS Q8 | 2 | 2 | 2 | 1 | 1 |  |
+| SUS Q9 | 4 | 5 | 5 | 4 | 4 |  |
+| SUS Q10 | 1 | 2 | 1 | 5 | 1 |  |
+
+
+
+
 
 ## Summary
 Overview of the testing results, including both qualitative and quantitative data.
