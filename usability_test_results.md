@@ -166,9 +166,9 @@ We achieved an overall SUS score of 81.5 out of 100, once again significantly su
 ## Gitlab Issues
 Links to corresponding issues created in Gitlab for tracking:
 - Issue 1: [Group highlight](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/1)
-- Issue 2: [Done size and pos](#done-size-and-pos)
-- Issue 3: [No back option](#no-back-option)
-- Issue 4: [Expenses to be resolved](#expenses-to-be-resolved)
-- Issue 5: [Text size](#text-size)
-- Issue 6: [Tutorial](#tutorial)
-- Issue 7: [Tab depth](#tab-depth)
+- Issue 2: [Done size and pos](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/2)
+- Issue 3: [No back option](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/3)
+- Issue 4: [Expenses to be resolved](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/4)
+- Issue 5: [Text size](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/5)
+- Issue 6: [Tutorial](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/6)
+- Issue 7: [Tab depth](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t9/swen303-group-project-part-2/-/issues/7)
