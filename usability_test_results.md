@@ -24,6 +24,18 @@ All review data submitted.
 | Task 6 | 6 | 6 | 7 | 4 | 6 | 5.80 |
 | User avg | 5.67 | 6.33 | 6.50 | 5.83 | 6.17 |      |
 
+Below are the calculations used to determine the overall SEQ score of our prototype after user testing.
+
+(5 + 4 + 6 + 6 + 7 + 6) / 6 = 5.67
+(6 + 7 + 6 + 6 + 7 + 6) / 6 = 6.33
+(7 + 6 + 7 + 7 + 5 + 7) / 6 = 6.50
+(6 + 6 + 7 + 5 + 7 + 4) / 6 = 5.83
+(6 + 5 + 7 + 6 + 7 + 6) / 6 = 6.17
+
+Overall average SEQ score: 6.10
+
+We achieved a final SEQ score of 6.1, significantly surpassing both our goal of 5.3 and the industry average of 5.3-5.6 outlined in our usability goals. While not a perfect score, this is an excellent result from our testing, with no significant weaknesses identified in any of our six tasks. The lowest score among these tasks was a 5.6 out of 7.0.
+
 #### Task 1 Comments:
 
 - Groups highlight is not clear enough for people with limited vision. Use of a different colour or making the tab more obvious is needed. I thought I was on the friends tab at first because it looks white underneath it.
