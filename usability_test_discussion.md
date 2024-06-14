@@ -37,9 +37,9 @@ During our usability testing, several key insights stood out, providing valuable
 These findings are crucial as they provide a clear direction for refining our app to better meet user needs and enhance overall usability. Addressing these issues will help create a more accessible, intuitive, and satisfying experience for all users.
 
 
-![SEQ BoxPlot](images/SEQ.png)
+![SEQ BoxPlot](images/SEQ.PNG)
 
-![SUS BoxPlot](images/SUS.png)
+![SUS BoxPlot](images/SUS.PNG)
 
 
 
