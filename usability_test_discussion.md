@@ -16,17 +16,22 @@ Users had varied experiences with the tasks, indicating different levels of diff
 There were concerns regarding the visibility and accessibility of certain UI elements. Users with limited vision found the group highlights and text sizes difficult to see, suggesting a need for better contrast and possibly larger or adjustable text sizes.
 
 During our usability testing, several key insights stood out, providing valuable feedback for improving our app. Here are the most interesting findings:
-- Assumed User Knowledge:
+- #### Assumed User Knowledge:
     Despite our efforts to make the app intuitive, it became apparent that some steps were still confusing for users who were unfamiliar with the app. This highlighted the need to address our inherent bias as creators who are overly familiar with the app’s functionalities.
-- Visual Clarity and Accessibility:
+
+- #### Visual Clarity and Accessibility:
     Users with limited vision struggled with certain visual elements, such as the group highlight colour and small text sizes. This feedback emphasised the importance of enhancing visual accessibility to ensure all users can navigate the app comfortably.
-- Navigation and User Flow:
+
+- #### Navigation and User Flow:
     The lack of a "back" button and the nesting of information under multiple taps were noted as potential frustrations. This pointed to a need for more intuitive navigation options, ensuring that users can easily correct mistakes and access frequently used features quickly.
-- Consistency and Feedback:
+
+- #### Consistency and Feedback:
     Inconsistencies in confirmation dialogues and the absence of notifications for unresolved expenses were highlighted. Implementing consistent feedback mechanisms and notifications would improve the user experience by making it more cohesive and informative.
-- Onboarding and Tutorials:
+
+- #### Onboarding and Tutorials:
     Participants suggested a prompt-based tutorial during the initial launch to help new users understand the app's layout and features better. This indicates that guided onboarding could significantly improve the ease of initial use.
-- High Satisfaction Scores:
+
+- #### High Satisfaction Scores:
     Our SEQ and SUS scores were significantly higher than our goals and industry standards, reflecting strong overall user satisfaction. This suggests that, while there are areas for improvement, the general user experience with the app is very positive.
     
 These findings are crucial as they provide a clear direction for refining our app to better meet user needs and enhance overall usability. Addressing these issues will help create a more accessible, intuitive, and satisfying experience for all users.
