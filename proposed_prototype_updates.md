@@ -8,7 +8,7 @@
 Summary of proposed updates based on test results.
 
 ## Justifications
-|  Update        |  Severity  |  Justification        |
+|  Update        |  Priority  |  Justification        |
 |  ------------- |  --------  |  -------------------  |
 |  Highlighting text of group and friend page.  | Medium |  Currently the app has a thin slider underneath the selected page while in the "Manage" tab. This was implemented to enhance our minimilist design. However This can be improved upon without compromising the design. Adding an enlargen effect when a user taps on either the "Groups" or "Friends" buttons will increase the users actions visual cues, inturn helping user flow.  |
 |  Moving "Done" button to the bottom of the page and adding a confrimation overlay  | Medium |  Currently the app has a "Done" button at the top right of the screen. However by adding the button to the bottom of the screen and creating a confirmation overlay this prevents the user from having to navigate back to the top of the screen once they've finished altering the group. By moving the button to the bottom this improves user flow as they are already scrolling down to view information. As well as this we are also improving user error mitigation by adding an extra step for confirmation in the form of an overlay.  |
