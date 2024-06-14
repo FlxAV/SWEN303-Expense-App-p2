@@ -12,6 +12,8 @@
 ## Results
 All review data submitted.
 
+SEQ Results
+
 | User | User 1  | User 2 | User 3 | User 4 | User 5 | Task Avg |
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
 | Task 1 | 5 | 6 | 7 | 6 | 6 | 6.00 |
@@ -21,6 +23,35 @@ All review data submitted.
 | Task 5 | 7 | 7 | 5 | 7 | 7 | 6.60 |
 | Task 6 | 6 | 6 | 7 | 4 | 6 | 5.80 |
 | User avg | 5.67 | 6.33 | 6.50 | 5.83 | 6.17 |      |
+
+Task 1 Comments:
+
+- Groups highlight is not clear enough for people with limited vision. Use of a different colour or making the tab more obvious is needed. I thought I was on the friends tab at first because it looks white underneath it.
+
+    Done callout isn't large enough and is a struggle to reach. If intentional to deter from accidentally creating groups this is good but you can do this by a confirmation dialogue instead. I'd put the done dialogue near the bottom so users are encouraged to scroll if needed and then confirm once having read everything.
+
+    Overall very easy process just some misplaced elements.
+
+- Nice looking UI, like the option to sign up with google/apple. Creating groups is intuitive while offering all features you would need.
+
+SUS Results
+
+| User | User 1  | User 2 | User 3 | User 4 | User 5 | 
+| ----------- | ----------- | ----------- | ----------- | ----------- |----------- | 
+| SUS Q1 | 3 | 3 | 5 | 5 | 5 |  
+| SUS Q2 | 4 | 1 | 1 | 1 | 4 |  
+| SUS Q3 | 4 | 4 | 5 | 5 | 4 |  
+| SUS Q4 | 1 | 3 | 4 | 1 | 1 |  
+| SUS Q5 | 4 | 5 | 5 | 5 | 3 |  
+| SUS Q6 | 3 | 2 | 1 | 1 | 1 |  
+| SUS Q7 | 4 | 4 | 5 | 4 | 4 |  
+| SUS Q8 | 2 | 2 | 2 | 1 | 1 |  
+| SUS Q9 | 4 | 5 | 5 | 4 | 4 |  
+| SUS Q10 | 1 | 2 | 1 | 5 | 1 |  
+
+
+
+
 
 ## Summary
 Overview of the testing results, including both qualitative and quantitative data.
